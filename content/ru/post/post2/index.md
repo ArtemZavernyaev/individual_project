@@ -1,13 +1,14 @@
 ---
-title: The weekend report #2
-subtitle: Boring week, full of studying...
+title: Отчёт о прошедшей неделе №2
+subtitle: Скучная неделя,полная учёбы скучных вещей...
 date: '2024-04-06'
 
 ---
+
     
 
-#### Programming
-I spent the whole week studying the SFML library in C++. It actually was more serious and difficult than expected
+#### Программирование:
+Всю неделю я уделил изучени библиотеки SFML в С++. Это оказалось значительно более серьёзным и утомительным занятием, чем предполагалось
 
 
 
