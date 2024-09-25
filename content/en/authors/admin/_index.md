@@ -45,7 +45,7 @@ profiles:
   - name: Arxiv
     url: https://arxiv.org
   - name: Github
-    icon:brands/github
+    icon: brands/github
     url: https://github.com/ArtemZavernyaev
 
 
