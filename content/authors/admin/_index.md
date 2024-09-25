@@ -43,8 +43,7 @@ education:
   - area: Компьютерные и информационные науки
     institution: Российский Университет Дружбы Народов
     date_start: 2023-09-01
-    date_end: 2027-06-31
-    summary: |
+    date_end: ''
  
 work:
   - position: Организатор соревнований
