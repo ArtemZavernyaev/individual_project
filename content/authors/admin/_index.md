@@ -50,7 +50,7 @@ work:
   - position: Организатор соревнований
     company_name: Московская Федерация Го
     company_url: ''
-    company_logo: MGF
+    company_logo: ''
     date_start: 2023-12-16
   
 # Skills
