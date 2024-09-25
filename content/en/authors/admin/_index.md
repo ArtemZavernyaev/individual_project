@@ -6,8 +6,8 @@ title: Артём Заверняев
 name_pronunciation: Artem Zavernyaev
 
 # Full name (for SEO)
-first_name: Артём
-last_name: Заверняев
+first_name: Artem
+last_name: Zavernyaev
 
 # Status emoji
 status:
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Студент
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Российский Университет Дружбы Народов
+  - name: RUDN
     url: https://www.rudn.ru
 
 # Social network links
@@ -35,19 +35,19 @@ profiles:
 
 
 interests:
-  - Машинное обучение
-  - Линейная алгебра
-  - Дискретная математика и теория вероятностей
+  - Maschine learning
+  - Linear algebra
+  - Possibility theory
 
 education:
-  - area: Компьютерные и информационные науки
-    institution: Российский Университет Дружбы Народов
+  - area: Computer and informational sciences
+    institution: RUDN
     date_start: 2023-09-01
     date_end: ''
  
 work:
-  - position: Организатор соревнований
-    company_name: Московская Федерация Го
+  - position: tournament organizer
+    company_name: Moscow Go Federation
     company_url: ''
     company_logo: ''
     date_start: 2023-12-16
@@ -55,43 +55,43 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Технические навыки
+  - name: Technical skills
     items:
-      - name: Программирование C++
+      - name: C++ programming
         description: ''
         percent: 75
         icon: code-bracket
-      - name: Дискретная математика
+      - name: Digital math
         description: ''
         percent: 90
         icon: chart-bar
-      - name: Программирование Python + Sage
+      - name: Python + Sage programming
         description: ''
         percent: 55
         icon: circle-stack
-  - name: Увлечения
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Игра Го
+      - name: Game Go
         description: ''
         percent: 90
         icon: person-simple-walk
-      - name: Чтение художественной литературы
+      - name: Fiction books reading
         description: ''
         percent: 57
         icon: cat
-      - name: Туризм
+      - name: Tourism
         description: ''
         percent: 83
         icon: camera
 
 languages:
-  - name: Русский
+  - name: Russian
     percent: 98
-  - name: Английский
+  - name: English
     percent: 68
-  - name: Итальянский
+  - name: Italian
     percent: 15
 
 # Awards.
@@ -99,11 +99,11 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 2 место турнира "ЛигаГО"
+  - title: Tournament "ЛигаГО". 2nd place
     date: '2023-09-17'
-    awarder: Го-клуб "На Тверской"
+    awarder: Go-club "На Тверской"
 
 ---
 
 ## About Me
-Артём Заверняев - простой студент РУДН, стремящийся найти своё место в жизни и поделиться чем-тосущественным с окружающим миром. Стремится к получениюдиплома по своей специальности ради преподавания школьникам/студентам курсов по информатике и компьютерным наукам.
+Artem Zavernyaev - is a simple student in RUDN, who desires to find his own place in our big world and share some integral knowledge with other people. Scientific diploma will help him to teach informationaland computer sciences to russian and foreign students also.
