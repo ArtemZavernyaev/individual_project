@@ -30,14 +30,22 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - url: https://elibrary.ru/project_user_office
-  - url: https://scholar.google.com
-  - url: https://orcid.org
-  - url: https://www.mendeley.com
-  - url: https://www.researchgate.net
-  - url: https://www.academia.edu
-  - url: https://arxiv.org
-  - icon:brands/github
+  - name: eLibrary
+    url: https://elibrary.ru/project_user_office
+  - name: Scholar Google
+    url: https://scholar.google.com
+  - name: ORCID
+    url: https://orcid.org
+  - name: Mendeley
+    url: https://www.mendeley.com
+  - name: Researchgate
+    url: https://www.researchgate.net
+  - name: Academia.edu
+    url: https://www.academia.edu
+  - name: Arxiv
+    url: https://arxiv.org
+  - name: Github
+    icon:brands/github
     url: https://github.com/ArtemZavernyaev
 
 
