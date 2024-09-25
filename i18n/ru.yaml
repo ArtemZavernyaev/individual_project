@@ -13,13 +13,13 @@
   translation: На верх
 
 - id: home
-  translation: Home
+  translation: Главная
 
 - id: close
-  translation: Close
+  translation: Закрыть
 
 - id: languages
-  translation: Languages
+  translation: Языки
 
 # General
 
@@ -36,24 +36,24 @@
   translation: Следующий
 
 - id: figure
-  translation: 'Схема № %d:'
+  translation: 'Рис № %d:'
 
 - id: edit_page
-  translation: Edit this page
+  translation: Изменить эту страницу
 
 # Themes
 
 - id: theme_selector
-  translation: Display preferences
+  translation: Отображать предпочтения
 
 - id: theme_light
-  translation: Light
+  translation: Светлая
 
 - id: theme_dark
-  translation: Dark
+  translation: Тёмная
 
 - id: theme_auto
-  translation: Automatic
+  translation: Автоматически
 
 # Buttons
 
@@ -91,7 +91,7 @@
   translation: Копия
 
 - id: btn_copied
-  translation: Copied
+  translation: Скопировано
 
 - id: btn_download
   translation: Скачать
@@ -218,10 +218,10 @@
   translation: Проекты
 
 - id: slides
-  translation: Slides
+  translation: Слайды
 
 - id: authors
-  translation: Authors
+  translation: Авторы
 
 # Search
 
@@ -238,7 +238,7 @@
   translation: результат не найден
 
 - id: search_common_queries
-  translation: Common searches
+  translation: Обычные запросы
 
 # Error 404
 
